@@ -1,0 +1,14 @@
+Started GET "/" for ::1 at 2022-12-14 13:43:49 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/love/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/love/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/railties-7.0.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.6ms | Allocations: 585)
+Completed 200 OK in 65ms (Views: 18.3ms | ActiveRecord: 0.0ms | Allocations: 4652)
+
+
+Started GET "/" for ::1 at 2022-12-14 15:06:48 -0800
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (Duration: 0.0ms | Allocations: 17)
+Completed 200 OK in 19ms (Views: 18.6ms | Allocations: 772)
+
+
